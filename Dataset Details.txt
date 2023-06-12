@@ -1,0 +1,7 @@
+Gaurav Dhamane
+
+
+
+Stock Price Prediction using DL
+
+^NSEI -- Dataset https://finance.yahoo.com/quote/%5ENSEI/history?p=%5ENSEI
